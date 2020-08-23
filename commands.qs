@@ -185,12 +185,7 @@ LAST	Len	"Nicholas Bosanquet"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q7989387	P768	Q874356	P102	Q9630	P1111	6504	P1352	3	S4656	"https://en.wikipedia.org/wiki/Weston-super-Mare_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Patrick Keating"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q874356	P102	Q9624	P1111	6935	P1352	3	S4656	"https://en.wikipedia.org/wiki/Weston-super-Mare_(UK_Parliament_constituency)"
+Q75839113	P3602	Q30173038	P768	Q874356	P102	Q9624	P1111	6935	P1352	3	S4656	"https://en.wikipedia.org/wiki/Weston-super-Mare_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Paul Hemingway-Arnold"
